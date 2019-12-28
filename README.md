@@ -10,16 +10,15 @@ TODO: Finsish this thing!
 
 ## App Core
 
+The actual application source code.
 
-
-
-
-## 🍌 Simulator
+## Simulator
 
 This is a svelte app that takes your **app core module*** and runs it in a  Banana Phone simulator (Nokia 8110 4G).
 
 
 
-## 🍌 Runner
+## Runner
 
 This is a runner.
+
