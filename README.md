@@ -1,16 +1,22 @@
-# 🍌 Banana App
+# Banana App
 
-### A KaiOS App Development Framework
+A KaiOS App Development Framework for the Nokia 8110 4G a.k.a The Banana Phone 🍌
+
+
+
+### Introduction
+
+TODO: Finsish this thing!
+
+## App Core
+
+
 
 
 
 ## 🍌 Simulator
 
 This is a svelte app that takes your **app core module*** and runs it in a  Banana Phone simulator (Nokia 8110 4G).
-
-### App Core Module
-
-Todo: finish writing this section
 
 
 
